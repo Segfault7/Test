@@ -11,7 +11,7 @@ import java.io.IOException;
 import javazoom.jl.decoder.JavaLayerException;
 /**
  *
- * @author Eric Ramirez Santis
+ * @author Anibal Palomo
  */
 public class ControladorPrincipal {
 
